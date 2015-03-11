@@ -1,2 +1,2 @@
 # common
-This is general Java and Android repo with algorithms and structures
+This is general Java and Android repo with implemented algorithms and structures
