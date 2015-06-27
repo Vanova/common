@@ -5,8 +5,13 @@ package org.uef.coursera.algfirst.hw_1;
  */
 public class PercolationStats {
 
+    private final int n;
+
     // perform T independent experiments on an N-by-N grid
     public PercolationStats(int N, int T) {
+
+        this.n = N;
+
     }
 
     // sample mean of percolation threshold
