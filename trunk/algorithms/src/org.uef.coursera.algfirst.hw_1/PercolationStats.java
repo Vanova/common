@@ -1,5 +1,6 @@
 package org.uef.coursera.algfirst.hw_1;
 
+
 /**
  * Created by vano on 28.6.2015.
  */
@@ -9,7 +10,6 @@ public class PercolationStats {
 
     // perform T independent experiments on an N-by-N grid
     public PercolationStats(int N, int T) {
-
         this.n = N;
 
     }
@@ -21,6 +21,7 @@ public class PercolationStats {
 
     // sample standard deviation of percolation threshold
     public double stddev() {
+
         return 0;
     }
 
